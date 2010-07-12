@@ -1,0 +1,5 @@
+To install this Xcode theme, open Terminal and run the following:
+
+mkdir -p ~/Library/Application\ Support/Xcode/Color\ Themes; cd ~/Library/Application\ Support/Xcode/Color\ Themes; curl http://github.com/nickbabenko/Specials-Board-Xcode/raw/master/Specials%20Board.xccolortheme > "Specials Board.xccolortheme"
+
+Restart Xcode (if it's running). Go to Preferences > Fonts & Colors, then select Specials Board.
